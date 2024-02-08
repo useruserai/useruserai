@@ -16,15 +16,13 @@ department of Artificial Intelligence - AI (4.18/4.5)
 
 <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📁 Projects </h3> 
 
-- 💛 공모전
-
+- 💝 공모전
   - 무라벨 페트병을 대체하는 리무버블 스티커
   - 시선추적기술을 활용한 음주측정 및 광고 플랫폼
   - 마켓컬리 블로그 분석 및 비즈니스 아이디어 제안
   - 영상 편집 저작권 경고 AI
     
 - 💚 자연어처리
-  
   - (딥러닝/5인)언론 인식 제고를 위한 뉴스기사 판별 AI
   - (컴퓨터와프로그래밍2/5인) 편향된 영화리뷰 분석
 
@@ -35,8 +33,14 @@ department of Artificial Intelligence - AI (4.18/4.5)
 
 - 💜 컴퓨터비전
   - (경진대회/3인) 영상 편집 저작권 경고 AI
+ 
+- 💛 강화학습
+  - (강화학습/4인) actor- critic 모델을 사용한 Amazon 도서 추천
+ 
+- ❤️ etc
+  - (웹프로그래밍) 포트폴리오 및 갤러리 제작
 
-- ❤️ misc.
+- ❤ misc.
   - ❗️국내 최초 빅데이터 연합 동아리 BOAZ_보아즈 데이터분석 22기
   - ebs 교육 멘토링
   - 가톨릭대학교 한국어 도우미
